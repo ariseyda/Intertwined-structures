@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-//intertwined structures
+//Intertwined structures
 
 struct Address{
 	
